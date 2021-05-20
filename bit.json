@@ -1,7 +1,6 @@
 {
-    "name": "Morbit Pool",
+    "name": "morbit",
     "description": "Morbit.trade is an independent and sustainable persian cardano stake pool.",
     "ticker": "BIT",
-    "homepage": "https://morbit.trade",
-    "extended": "https://morbit.trade/bit.extended.json"
+    "homepage": "https://morbit.trade"
 }
