@@ -1,0 +1,36 @@
+{
+  "poolName": "morbit",
+  "poolOwner": [
+    {
+      "ownerName": "poolOwner",
+      "ownerWitness": "local"
+    }
+  ],
+  "poolRewards": "poolOwner",
+  "poolPledge": "10000000000",
+  "poolCost": "340000000",
+  "poolMargin": "0.00",
+  "poolRelays": [
+    {
+      "relayType": "ip",
+      "relayEntry": "87.107.166.85",
+      "relayPort": "3001"
+    },
+    {
+      "relayType": "ip",
+      "relayEntry": "87.107.166.86",
+      "relayPort": "3001"
+    }
+  ],
+  "poolMetaName": "Morbit Pool",
+  "poolMetaDescription": "Morbit.trade is an independent and sustainable persian cardano stake pool.",
+  "poolMetaTicker": "BIT",
+  "poolMetaHomepage": "https://morbit.trade",
+  "poolMetaUrl": "https://raw.githubusercontent.com/morbitpool/cds/main/bit.json",
+  "---": "--- DO NOT EDIT OR DELETE BELOW THIS LINE ---",
+  "poolID": "d22bd5db44ecbd7364c3fdc892e90b32e11b4a147404c36c0f0f5d13",
+  "poolIDbech": "pool16g4atk6yaj7hxexrlhyf96gtxts3kjs5wszvxmq0paw3xdre68q",
+  "poolMetaHash": "80f8085fdda08e2d3860ad9d97fac3d432909ffb4da354552715d366382f838b",
+  "regCertCreated": "Thu, 20 May 2021 20:57:20 +0430",
+  "regCertFile": "morbit.pool.cert"
+}
